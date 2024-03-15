@@ -1,0 +1,13 @@
+C:\Users\Iagoo\source\repos\WebScapper\WebScapper\bin\Debug\WebScapper.exe.config
+C:\Users\Iagoo\source\repos\WebScapper\WebScapper\bin\Debug\WebScapper.exe
+C:\Users\Iagoo\source\repos\WebScapper\WebScapper\bin\Debug\WebScapper.pdb
+C:\Users\Iagoo\source\repos\WebScapper\WebScapper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Iagoo\source\repos\WebScapper\WebScapper\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Iagoo\source\repos\WebScapper\WebScapper\obj\Debug\WebScapper.csproj.AssemblyReference.cache
+C:\Users\Iagoo\source\repos\WebScapper\WebScapper\obj\Debug\WebScapper.csproj.CoreCompileInputs.cache
+C:\Users\Iagoo\source\repos\WebScapper\WebScapper\obj\Debug\WebScapper.csproj.Up2Date
+C:\Users\Iagoo\source\repos\WebScapper\WebScapper\obj\Debug\WebScapper.exe
+C:\Users\Iagoo\source\repos\WebScapper\WebScapper\obj\Debug\WebScapper.pdb
+C:\Users\Iagoo\source\repos\WebScapper\WebScapper\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Iagoo\source\repos\WebScapper\WebScapper\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Iagoo\source\repos\WebScapper\WebScapper\bin\Debug\HtmlAgilityPack.xml

@@ -33,6 +33,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="HtmlAgilityPack, Version=1.11.59.0, Culture=neutral, PublicKeyToken=bd319b19eaf3b43a, processorArchitecture=MSIL">
+      <HintPath>..\packages\HtmlAgilityPack.1.11.59\lib\Net45\HtmlAgilityPack.dll</HintPath>
+    </Reference>
     <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
       <HintPath>..\packages\Newtonsoft.Json.13.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
     </Reference>
@@ -53,12 +56,18 @@
     <Compile Include="Entities\Investimento.cs" />
     <Compile Include="Enums\DividendoType.cs" />
     <Compile Include="Enums\InvestimentoType.cs" />
+    <Compile Include="Implementations\B3Processor.cs" />
+    <Compile Include="Implementations\B3RequestGenerator.cs" />
+    <Compile Include="Implementations\Investidor10Processor.cs" />
+    <Compile Include="Implementations\Investidor10FundosImobiliarioRequestGenerator.cs" />
+    <Compile Include="Implementations\WebScrapper.cs" />
     <Compile Include="Interfaces\IRepository.cs" />
     <Compile Include="Interfaces\IWebScrapper.cs" />
     <Compile Include="Interfaces\IWebProcessor.cs" />
     <Compile Include="Interfaces\IRequestGenerator.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repositories\FundosImobiliariosRepository.cs" />
     <Compile Include="Utilities\CollectionHelper.cs" />
     <Compile Include="Utilities\Functions.cs" />
   </ItemGroup>

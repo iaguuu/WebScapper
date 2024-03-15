@@ -3,59 +3,83 @@
   "WorkspaceRootPath": "C:\\Users\\Iagoo\\source\\repos\\WebScapper\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{21CFFD92-2661-4040-B08C-F8C7C1AD2D41}|WebScapper\\WebScapper.csproj|c:\\users\\iagoo\\source\\repos\\webscapper\\webscapper\\implementations\\webscrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CFFD92-2661-4040-B08C-F8C7C1AD2D41}|WebScapper\\WebScapper.csproj|solutionrelative:webscapper\\implementations\\webscrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CFFD92-2661-4040-B08C-F8C7C1AD2D41}|WebScapper\\WebScapper.csproj|c:\\users\\iagoo\\source\\repos\\webscapper\\webscapper\\repositories\\fundosimobiliariosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CFFD92-2661-4040-B08C-F8C7C1AD2D41}|WebScapper\\WebScapper.csproj|solutionrelative:webscapper\\repositories\\fundosimobiliariosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CFFD92-2661-4040-B08C-F8C7C1AD2D41}|WebScapper\\WebScapper.csproj|c:\\users\\iagoo\\source\\repos\\webscapper\\webscapper\\implementations\\investidor10processor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CFFD92-2661-4040-B08C-F8C7C1AD2D41}|WebScapper\\WebScapper.csproj|solutionrelative:webscapper\\implementations\\investidor10processor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CFFD92-2661-4040-B08C-F8C7C1AD2D41}|WebScapper\\WebScapper.csproj|c:\\users\\iagoo\\source\\repos\\webscapper\\webscapper\\implementations\\investidor10fundosimobiliariorequestgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CFFD92-2661-4040-B08C-F8C7C1AD2D41}|WebScapper\\WebScapper.csproj|solutionrelative:webscapper\\implementations\\investidor10fundosimobiliariorequestgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CFFD92-2661-4040-B08C-F8C7C1AD2D41}|WebScapper\\WebScapper.csproj|c:\\users\\iagoo\\source\\repos\\webscapper\\webscapper\\implementations\\b3requestgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CFFD92-2661-4040-B08C-F8C7C1AD2D41}|WebScapper\\WebScapper.csproj|solutionrelative:webscapper\\implementations\\b3requestgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CFFD92-2661-4040-B08C-F8C7C1AD2D41}|WebScapper\\WebScapper.csproj|c:\\users\\iagoo\\source\\repos\\webscapper\\webscapper\\implementations\\b3processor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CFFD92-2661-4040-B08C-F8C7C1AD2D41}|WebScapper\\WebScapper.csproj|solutionrelative:webscapper\\implementations\\b3processor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CFFD92-2661-4040-B08C-F8C7C1AD2D41}|WebScapper\\WebScapper.csproj|C:\\Users\\Iagoo\\source\\repos\\WebScapper\\webscapper\\interfaces\\iwebprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CFFD92-2661-4040-B08C-F8C7C1AD2D41}|WebScapper\\WebScapper.csproj|solutionrelative:webscapper\\interfaces\\iwebprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CFFD92-2661-4040-B08C-F8C7C1AD2D41}|WebScapper\\WebScapper.csproj|C:\\Users\\Iagoo\\source\\repos\\WebScapper\\webscapper\\interfaces\\irequestgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CFFD92-2661-4040-B08C-F8C7C1AD2D41}|WebScapper\\WebScapper.csproj|solutionrelative:webscapper\\interfaces\\irequestgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CFFD92-2661-4040-B08C-F8C7C1AD2D41}|WebScapper\\WebScapper.csproj|C:\\Users\\Iagoo\\source\\repos\\WebScapper\\webscapper\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CFFD92-2661-4040-B08C-F8C7C1AD2D41}|WebScapper\\WebScapper.csproj|solutionrelative:webscapper\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{21CFFD92-2661-4040-B08C-F8C7C1AD2D41}|WebScapper\\WebScapper.csproj|c:\\users\\iagoo\\source\\repos\\webscapper\\webscapper\\utilities\\functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{21CFFD92-2661-4040-B08C-F8C7C1AD2D41}|WebScapper\\WebScapper.csproj|solutionrelative:webscapper\\utilities\\functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{21CFFD92-2661-4040-B08C-F8C7C1AD2D41}|WebScapper\\WebScapper.csproj|c:\\users\\iagoo\\source\\repos\\webscapper\\webscapper\\utilities\\collectionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{21CFFD92-2661-4040-B08C-F8C7C1AD2D41}|WebScapper\\WebScapper.csproj|C:\\Users\\Iagoo\\source\\repos\\WebScapper\\webscapper\\utilities\\collectionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{21CFFD92-2661-4040-B08C-F8C7C1AD2D41}|WebScapper\\WebScapper.csproj|solutionrelative:webscapper\\utilities\\collectionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{21CFFD92-2661-4040-B08C-F8C7C1AD2D41}|WebScapper\\WebScapper.csproj|c:\\users\\iagoo\\source\\repos\\webscapper\\webscapper\\interfaces\\iwebprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21CFFD92-2661-4040-B08C-F8C7C1AD2D41}|WebScapper\\WebScapper.csproj|solutionrelative:webscapper\\interfaces\\iwebprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21CFFD92-2661-4040-B08C-F8C7C1AD2D41}|WebScapper\\WebScapper.csproj|c:\\users\\iagoo\\source\\repos\\webscapper\\webscapper\\interfaces\\irequestgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21CFFD92-2661-4040-B08C-F8C7C1AD2D41}|WebScapper\\WebScapper.csproj|solutionrelative:webscapper\\interfaces\\irequestgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21CFFD92-2661-4040-B08C-F8C7C1AD2D41}|WebScapper\\WebScapper.csproj|c:\\users\\iagoo\\source\\repos\\webscapper\\webscapper\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21CFFD92-2661-4040-B08C-F8C7C1AD2D41}|WebScapper\\WebScapper.csproj|solutionrelative:webscapper\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21CFFD92-2661-4040-B08C-F8C7C1AD2D41}|WebScapper\\WebScapper.csproj|c:\\users\\iagoo\\source\\repos\\webscapper\\webscapper\\interfaces\\iwebscrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{21CFFD92-2661-4040-B08C-F8C7C1AD2D41}|WebScapper\\WebScapper.csproj|C:\\Users\\Iagoo\\source\\repos\\WebScapper\\webscapper\\interfaces\\iwebscrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{21CFFD92-2661-4040-B08C-F8C7C1AD2D41}|WebScapper\\WebScapper.csproj|solutionrelative:webscapper\\interfaces\\iwebscrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{21CFFD92-2661-4040-B08C-F8C7C1AD2D41}|WebScapper\\WebScapper.csproj|c:\\users\\iagoo\\source\\repos\\webscapper\\webscapper\\entities\\fundosimobiliarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{21CFFD92-2661-4040-B08C-F8C7C1AD2D41}|WebScapper\\WebScapper.csproj|C:\\Users\\Iagoo\\source\\repos\\WebScapper\\webscapper\\entities\\fundosimobiliarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{21CFFD92-2661-4040-B08C-F8C7C1AD2D41}|WebScapper\\WebScapper.csproj|solutionrelative:webscapper\\entities\\fundosimobiliarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{21CFFD92-2661-4040-B08C-F8C7C1AD2D41}|WebScapper\\WebScapper.csproj|c:\\users\\iagoo\\source\\repos\\webscapper\\webscapper\\entities\\httpclientrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{21CFFD92-2661-4040-B08C-F8C7C1AD2D41}|WebScapper\\WebScapper.csproj|C:\\Users\\Iagoo\\source\\repos\\WebScapper\\webscapper\\entities\\httpclientrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{21CFFD92-2661-4040-B08C-F8C7C1AD2D41}|WebScapper\\WebScapper.csproj|solutionrelative:webscapper\\entities\\httpclientrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{21CFFD92-2661-4040-B08C-F8C7C1AD2D41}|WebScapper\\WebScapper.csproj|c:\\users\\iagoo\\source\\repos\\webscapper\\webscapper\\entities\\dividendo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{21CFFD92-2661-4040-B08C-F8C7C1AD2D41}|WebScapper\\WebScapper.csproj|C:\\Users\\Iagoo\\source\\repos\\WebScapper\\webscapper\\entities\\dividendo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{21CFFD92-2661-4040-B08C-F8C7C1AD2D41}|WebScapper\\WebScapper.csproj|solutionrelative:webscapper\\entities\\dividendo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{21CFFD92-2661-4040-B08C-F8C7C1AD2D41}|WebScapper\\WebScapper.csproj|c:\\users\\iagoo\\source\\repos\\webscapper\\webscapper\\entities\\investimento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{21CFFD92-2661-4040-B08C-F8C7C1AD2D41}|WebScapper\\WebScapper.csproj|C:\\Users\\Iagoo\\source\\repos\\WebScapper\\webscapper\\entities\\investimento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{21CFFD92-2661-4040-B08C-F8C7C1AD2D41}|WebScapper\\WebScapper.csproj|solutionrelative:webscapper\\entities\\investimento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{21CFFD92-2661-4040-B08C-F8C7C1AD2D41}|WebScapper\\WebScapper.csproj|c:\\users\\iagoo\\source\\repos\\webscapper\\webscapper\\enums\\investimentotype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{21CFFD92-2661-4040-B08C-F8C7C1AD2D41}|WebScapper\\WebScapper.csproj|C:\\Users\\Iagoo\\source\\repos\\WebScapper\\webscapper\\enums\\investimentotype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{21CFFD92-2661-4040-B08C-F8C7C1AD2D41}|WebScapper\\WebScapper.csproj|solutionrelative:webscapper\\enums\\investimentotype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{21CFFD92-2661-4040-B08C-F8C7C1AD2D41}|WebScapper\\WebScapper.csproj|c:\\users\\iagoo\\source\\repos\\webscapper\\webscapper\\enums\\dividendotype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{21CFFD92-2661-4040-B08C-F8C7C1AD2D41}|WebScapper\\WebScapper.csproj|C:\\Users\\Iagoo\\source\\repos\\WebScapper\\webscapper\\enums\\dividendotype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{21CFFD92-2661-4040-B08C-F8C7C1AD2D41}|WebScapper\\WebScapper.csproj|solutionrelative:webscapper\\enums\\dividendotype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{21CFFD92-2661-4040-B08C-F8C7C1AD2D41}|WebScapper\\WebScapper.csproj|c:\\users\\iagoo\\source\\repos\\webscapper\\webscapper\\entities\\cotacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{21CFFD92-2661-4040-B08C-F8C7C1AD2D41}|WebScapper\\WebScapper.csproj|C:\\Users\\Iagoo\\source\\repos\\WebScapper\\webscapper\\entities\\cotacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{21CFFD92-2661-4040-B08C-F8C7C1AD2D41}|WebScapper\\WebScapper.csproj|solutionrelative:webscapper\\entities\\cotacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{21CFFD92-2661-4040-B08C-F8C7C1AD2D41}|WebScapper\\WebScapper.csproj|c:\\users\\iagoo\\source\\repos\\webscapper\\webscapper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{21CFFD92-2661-4040-B08C-F8C7C1AD2D41}|WebScapper\\WebScapper.csproj|C:\\Users\\Iagoo\\source\\repos\\WebScapper\\webscapper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{21CFFD92-2661-4040-B08C-F8C7C1AD2D41}|WebScapper\\WebScapper.csproj|solutionrelative:webscapper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -66,11 +90,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebScrapper.cs",
+              "DocumentMoniker": "C:\\Users\\Iagoo\\source\\repos\\WebScapper\\WebScapper\\Implementations\\WebScrapper.cs",
+              "RelativeDocumentMoniker": "WebScapper\\Implementations\\WebScrapper.cs",
+              "ToolTip": "C:\\Users\\Iagoo\\source\\repos\\WebScapper\\WebScapper\\Implementations\\WebScrapper.cs",
+              "RelativeToolTip": "WebScapper\\Implementations\\WebScrapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T04:27:45.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Investidor10Processor.cs",
+              "DocumentMoniker": "C:\\Users\\Iagoo\\source\\repos\\WebScapper\\WebScapper\\Implementations\\Investidor10Processor.cs",
+              "RelativeDocumentMoniker": "WebScapper\\Implementations\\Investidor10Processor.cs",
+              "ToolTip": "C:\\Users\\Iagoo\\source\\repos\\WebScapper\\WebScapper\\Implementations\\Investidor10Processor.cs",
+              "RelativeToolTip": "WebScapper\\Implementations\\Investidor10Processor.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAWwFMAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T04:27:22.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Investidor10FundosImobiliarioRequestGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\Iagoo\\source\\repos\\WebScapper\\WebScapper\\Implementations\\Investidor10FundosImobiliarioRequestGenerator.cs",
+              "RelativeDocumentMoniker": "WebScapper\\Implementations\\Investidor10FundosImobiliarioRequestGenerator.cs",
+              "ToolTip": "C:\\Users\\Iagoo\\source\\repos\\WebScapper\\WebScapper\\Implementations\\Investidor10FundosImobiliarioRequestGenerator.cs",
+              "RelativeToolTip": "WebScapper\\Implementations\\Investidor10FundosImobiliarioRequestGenerator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T04:27:08.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "B3RequestGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\Iagoo\\source\\repos\\WebScapper\\WebScapper\\Implementations\\B3RequestGenerator.cs",
+              "RelativeDocumentMoniker": "WebScapper\\Implementations\\B3RequestGenerator.cs",
+              "ToolTip": "C:\\Users\\Iagoo\\source\\repos\\WebScapper\\WebScapper\\Implementations\\B3RequestGenerator.cs",
+              "RelativeToolTip": "WebScapper\\Implementations\\B3RequestGenerator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T04:26:38.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "B3Processor.cs",
+              "DocumentMoniker": "C:\\Users\\Iagoo\\source\\repos\\WebScapper\\WebScapper\\Implementations\\B3Processor.cs",
+              "RelativeDocumentMoniker": "WebScapper\\Implementations\\B3Processor.cs",
+              "ToolTip": "C:\\Users\\Iagoo\\source\\repos\\WebScapper\\WebScapper\\Implementations\\B3Processor.cs",
+              "RelativeToolTip": "WebScapper\\Implementations\\B3Processor.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAkwDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T04:23:56.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "FundosImobiliariosRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Iagoo\\source\\repos\\WebScapper\\WebScapper\\Repositories\\FundosImobiliariosRepository.cs",
+              "RelativeDocumentMoniker": "WebScapper\\Repositories\\FundosImobiliariosRepository.cs",
+              "ToolTip": "C:\\Users\\Iagoo\\source\\repos\\WebScapper\\WebScapper\\Repositories\\FundosImobiliariosRepository.cs",
+              "RelativeToolTip": "WebScapper\\Repositories\\FundosImobiliariosRepository.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAswDMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T04:20:51.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "CollectionHelper.cs",
               "DocumentMoniker": "C:\\Users\\Iagoo\\source\\repos\\WebScapper\\WebScapper\\Utilities\\CollectionHelper.cs",
               "RelativeDocumentMoniker": "WebScapper\\Utilities\\CollectionHelper.cs",
@@ -78,12 +180,11 @@
               "RelativeToolTip": "WebScapper\\Utilities\\CollectionHelper.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T04:17:48.89Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-15T04:17:48.89Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
               "Title": "Functions.cs",
               "DocumentMoniker": "C:\\Users\\Iagoo\\source\\repos\\WebScapper\\WebScapper\\Utilities\\Functions.cs",
               "RelativeDocumentMoniker": "WebScapper\\Utilities\\Functions.cs",
@@ -96,7 +197,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "IWebProcessor.cs",
               "DocumentMoniker": "C:\\Users\\Iagoo\\source\\repos\\WebScapper\\WebScapper\\Interfaces\\IWebProcessor.cs",
               "RelativeDocumentMoniker": "WebScapper\\Interfaces\\IWebProcessor.cs",
@@ -109,7 +210,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "IWebScrapper.cs",
               "DocumentMoniker": "C:\\Users\\Iagoo\\source\\repos\\WebScapper\\WebScapper\\Interfaces\\IWebScrapper.cs",
               "RelativeDocumentMoniker": "WebScapper\\Interfaces\\IWebScrapper.cs",
@@ -117,12 +218,11 @@
               "RelativeToolTip": "WebScapper\\Interfaces\\IWebScrapper.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T04:14:42.606Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-15T04:14:42.606Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\Iagoo\\source\\repos\\WebScapper\\WebScapper\\Interfaces\\IRepository.cs",
               "RelativeDocumentMoniker": "WebScapper\\Interfaces\\IRepository.cs",
@@ -135,7 +235,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "IRequestGenerator.cs",
               "DocumentMoniker": "C:\\Users\\Iagoo\\source\\repos\\WebScapper\\WebScapper\\Interfaces\\IRequestGenerator.cs",
               "RelativeDocumentMoniker": "WebScapper\\Interfaces\\IRequestGenerator.cs",
@@ -148,7 +248,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 17,
               "Title": "DividendoType.cs",
               "DocumentMoniker": "C:\\Users\\Iagoo\\source\\repos\\WebScapper\\WebScapper\\Enums\\DividendoType.cs",
               "RelativeDocumentMoniker": "WebScapper\\Enums\\DividendoType.cs",
@@ -156,12 +256,11 @@
               "RelativeToolTip": "WebScapper\\Enums\\DividendoType.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T04:09:59.9Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-15T04:09:59.9Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "InvestimentoType.cs",
               "DocumentMoniker": "C:\\Users\\Iagoo\\source\\repos\\WebScapper\\WebScapper\\Enums\\InvestimentoType.cs",
               "RelativeDocumentMoniker": "WebScapper\\Enums\\InvestimentoType.cs",
@@ -169,12 +268,11 @@
               "RelativeToolTip": "WebScapper\\Enums\\InvestimentoType.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T04:09:53.044Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-15T04:09:53.044Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "Dividendo.cs",
               "DocumentMoniker": "C:\\Users\\Iagoo\\source\\repos\\WebScapper\\WebScapper\\Entities\\Dividendo.cs",
               "RelativeDocumentMoniker": "WebScapper\\Entities\\Dividendo.cs",
@@ -182,12 +280,11 @@
               "RelativeToolTip": "WebScapper\\Entities\\Dividendo.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T04:09:20.119Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-15T04:09:20.119Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "HttpClientRequest.cs",
               "DocumentMoniker": "C:\\Users\\Iagoo\\source\\repos\\WebScapper\\WebScapper\\Entities\\HttpClientRequest.cs",
               "RelativeDocumentMoniker": "WebScapper\\Entities\\HttpClientRequest.cs",
@@ -195,12 +292,11 @@
               "RelativeToolTip": "WebScapper\\Entities\\HttpClientRequest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T04:08:52.549Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-15T04:08:52.549Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "Investimento.cs",
               "DocumentMoniker": "C:\\Users\\Iagoo\\source\\repos\\WebScapper\\WebScapper\\Entities\\Investimento.cs",
               "RelativeDocumentMoniker": "WebScapper\\Entities\\Investimento.cs",
@@ -208,12 +304,11 @@
               "RelativeToolTip": "WebScapper\\Entities\\Investimento.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T04:08:40.205Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-15T04:08:40.205Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "FundosImobiliarios.cs",
               "DocumentMoniker": "C:\\Users\\Iagoo\\source\\repos\\WebScapper\\WebScapper\\Entities\\FundosImobiliarios.cs",
               "RelativeDocumentMoniker": "WebScapper\\Entities\\FundosImobiliarios.cs",
@@ -221,12 +316,11 @@
               "RelativeToolTip": "WebScapper\\Entities\\FundosImobiliarios.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T04:08:31.986Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-15T04:08:31.986Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 18,
               "Title": "Cotacao.cs",
               "DocumentMoniker": "C:\\Users\\Iagoo\\source\\repos\\WebScapper\\WebScapper\\Entities\\Cotacao.cs",
               "RelativeDocumentMoniker": "WebScapper\\Entities\\Cotacao.cs",
@@ -234,12 +328,11 @@
               "RelativeToolTip": "WebScapper\\Entities\\Cotacao.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T04:08:21.743Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-15T04:08:21.743Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 19,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Iagoo\\source\\repos\\WebScapper\\WebScapper\\Program.cs",
               "RelativeDocumentMoniker": "WebScapper\\Program.cs",
@@ -247,8 +340,7 @@
               "RelativeToolTip": "WebScapper\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T04:05:55.071Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-15T04:05:55.071Z"
             }
           ]
         }
