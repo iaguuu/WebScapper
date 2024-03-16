@@ -1,6 +1,5 @@
 ﻿using System.Collections.Generic;
-
-public interface IRequestGenerator<T>
+public interface IRequestGenerator
 {
-    List<HttpClientRequest> GenerateRequests(List<T> items);
+    List<HttpClientRequest> GenerateRequests();
 }
