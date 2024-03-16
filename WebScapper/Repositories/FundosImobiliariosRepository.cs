@@ -22,15 +22,7 @@ public class FundosImobiliariosRepository : IRepository<FundoImobiliario>
             using (SqlBulkCopy sqlBulkCopy = new SqlBulkCopy(_connectionString))
             {
                 sqlBulkCopy.BatchSize = 10000;
-                sqlBulkCopy.BulkCopyTimeout = 0;
-
-                DataTable fundosImobiliariosDataTable = fundoImobiliarioAsDataTable(fundosImobiliarios);
-                DataTable historicoCotacao = historicoCotacaoAsDataTable(fundosImobiliarios);
-                DataTable historicoDividendos = historicoDividendoAsDataTable(fundosImobiliarios);
-
-                Dictionary<string, string> columnMappingFundo = columnsMapping("FundoImobiliario");
-                Dictionary<string, string> columnMappingCotacao = columnsMapping("COTACAO");
-                Dictionary<string, string> columnMappingDividendo = columnsMapping("DIVIDEND");
+                sqlBulkCopy.BulkCopyTimeout = 300;
 
                 void CopyDataToDatabase(DataTable data, string tableName, Dictionary<string, string> columnMapping)
                 {
@@ -42,9 +34,9 @@ public class FundosImobiliariosRepository : IRepository<FundoImobiliario>
                     sqlBulkCopy.ColumnMappings.Clear();
                 }
 
-                CopyDataToDatabase(fundosImobiliariosDataTable, "FUNDOS_IMOBILIAROS", columnMappingFundo);
-                CopyDataToDatabase(historicoCotacao, "COTACOES", columnMappingCotacao);
-                CopyDataToDatabase(historicoDividendos, "DIVIDENDOS", columnMappingDividendo);
+                CopyDataToDatabase(fundoImobiliarioAsDataTable(fundosImobiliarios), "FUNDOS_IMOBILIAROS", columnsMapping("FundoImobiliario"));
+                CopyDataToDatabase(historicoCotacaoAsDataTable(fundosImobiliarios), "COTACOES", columnsMapping("COTACAO"));
+                CopyDataToDatabase(historicoDividendoAsDataTable(fundosImobiliarios), "DIVIDENDOS", columnsMapping("DIVIDEND"));
 
                 return;
             }
